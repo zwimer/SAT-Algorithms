@@ -11,13 +11,13 @@ Knuth's Cat
 **!! RENDER MARKDOWN !!**
 
 // Title description
-Re-constructing the `Hello World` example given
+Re-constructing the Cat
 
 **!!! BLOG ITEM DELIMITER !!!**
 **!! STOP RENDERING !!**
 
 // Date of post 
-November 22, 2017
+December 1, 2017
 
 **!!! BLOG ITEM DELIMITER !!!**
 // Note: Markdown should always be rendered first as latex does not respect whitespace
