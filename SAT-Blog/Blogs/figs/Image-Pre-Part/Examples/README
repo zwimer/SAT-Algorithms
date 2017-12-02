@@ -1,0 +1,19 @@
+The original bear image is given in the file Bear.bmp
+The original Caltech image is given in the file Caltech.bmp
+Each re-constructed image is appended with the block sizes used to re-construct it
+
+The re-constructed bear images are:
+	Bear_150_24 - Took 37.9757189751 seconds to make with 16.2716049383 % total error.
+	Bear_75_18  - Took 1.35337209702 seconds to make with 1.06172839506 % total error.
+	Bear_50_18  - Took 1.07365608215 seconds to make with 1.06172839506 % total error.
+	Bear_25_18  - Took 1.13446807861 seconds to make with 0.271604938272 % total error.
+	Bear_25_18  - Took 1.25046086311 seconds to make with 0.0 % total error.
+
+The re-constructed Caltech images are:
+	Caltech_28_40 - Took 0.250571966171 seconds to make with 7.5 % total error.
+	Caltech_28_20 - Took 0.164341926575 seconds to make with 0.0 % total error.
+	Caltech_14_20 - Took 0.181504011154 seconds to make with 0.0 % total error.
+	Caltech_14_10 - Took 0.221587896347 seconds to make with 0.0 % total error.
+	Caltech_7_10 - Took 0.308846950531 seconds to make with 0.0 % total error.
+	Caltech_7_5 - Took 0.460857152939 seconds to make with 0.0 % total error.
+	Caltech_1_1 - Took 8.58120584488 seconds to make with 0.0 % total error.

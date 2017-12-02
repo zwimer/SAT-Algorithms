@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+		<!-- Put this part in index.html -->
+		<script type="text/x-mathjax-config">
+			MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'],['\\(','\\)']] } });
+		</script>
+		<script type="text/javascript" src="MathJax-2.7.2/MathJax.js?config=TeX-MML-AM_HTMLorMML"></script>
+
+		<script>
+			// Used to create a preview and render it
+			function CreatePreview(id) {
+					alert(id);
+					var preview = document.getElementById("MathPreview");
+					preview.innerHTML = document.getElementById("MathInput").value;
+					MathJax.Hub.Queue( ["Typeset", MathJax.Hub, preview] );
+			};
+		</script>
+
+	<button onclick="CreatePreview(2)"> Bro2 </button>
+	<textarea id="MathInput"></textarea>
+	<div id="MathPreview"></div>
+
+</html>
