@@ -30,23 +30,23 @@ NP problems often have an order notation of <span class="math inline">\(O(2^N)\)
 When running this on the elehpant.bmp image, with block sizes of <span class="math inline">\(40\ \times\ 36\)</span>, I get 11.3194444444% image, which takes .87 seconds to run
 **!! RENDER MARKDOWN !!**
 
-![Elephant-40-36](https://github.com/zwimer/zwimer.github.io/blob/master/SAT-Blog/Blogs/figs/Image-Pre-Part/Elephant_40_36.bmp)
+![Elephant-40-36](https://www.zwimer.com/SAT-Algorithms/SAT-Blog/Blogs/figs/Image-Pre-Part/Elephant_40_36.bmp)
 
 **!! STOP RENDERING !!**
 When running this on the elehpant.bmp image, with block sizes of <span class="math inline">\(20\ \times\ 36\)</span>, I get 1.18055555556% image, which takes .38 seconds to run.
 **!! RENDER MARKDOWN !!**
 
-![Elephant-20-36](https://github.com/zwimer/zwimer.github.io/blob/master/SAT-Blog/Blogs/figs/Image-Pre-Part/Elephant_20_36.bmp)
+![Elephant-20-36](https://www.zwimer.com/SAT-Algorithms/SAT-Blog/Blogs/figs/Image-Pre-Part/Elephant_20_36.bmp)
 
 **!! STOP RENDERING !!**
 When running this on the elehpant.bmp image, with block sizes of <span class="math inline">\(8\ \times\ 9\)</span>, I get 0.27777777778% image, which takes .72 seconds to run. This same image, when run on my previous partitioning program took over an hour before I finally stopped the calculation.
 **!! RENDER MARKDOWN !!**
 
-![Elephant-8-9](https://github.com/zwimer/zwimer.github.io/blob/master/SAT-Blog/Blogs/figs/Image-Pre-Part/Elephant_8_9.bmp)
+![Elephant-8-9](https://www.zwimer.com/SAT-Algorithms/SAT-Blog/Blogs/figs/Image-Pre-Part/Elephant_8_9.bmp)
 
 The actual elephant.bmp is here:
 
-![Elephant](https://github.com/zwimer/zwimer.github.io/blob/master/SAT-Blog/Blogs/figs/Image-Pre-Part/Elephant.bmp)
+![Elephant](https://www.zwimer.com/SAT-Algorithms/SAT-Blog/Blogs/figs/Image-Pre-Part/Elephant.bmp)
 
 For more examples, click [here](https://github.com/zwimer/zwimer.com/tree/master/SAT-Blog/Blogs/figs/Image-Pre-Part/Examples)
 

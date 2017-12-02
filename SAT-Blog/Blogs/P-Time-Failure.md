@@ -31,27 +31,27 @@ Unfortunately, my luck with this was not very good. As it turned out, this appro
 
 For the Jagged-A image, 12% total error (black and white pixels) was found.
 
-![Jagged-A](https://github.com/zwimer/zwimer.github.io/blob/master/SAT-Blog/Blogs/figs/P-Time-Fail/Jagged_A.bmp)
+![Jagged-A](https://www.zwimer.com/SAT-Algorithms/SAT-Blog/Blogs/figs/P-Time-Fail/Jagged_A.bmp)
 
 Became:
 
-![Jagged-A-error](https://github.com/zwimer/zwimer.github.io/blob/master/SAT-Blog/Blogs/figs/P-Time-Fail/Jagged_A_5_5.bmp)
+![Jagged-A-error](https://www.zwimer.com/SAT-Algorithms/SAT-Blog/Blogs/figs/P-Time-Fail/Jagged_A_5_5.bmp)
 
 For the elephant image, 16.2% total error was found.
 
-![Elephant](https://github.com/zwimer/zwimer.github.io/blob/master/SAT-Blog/Blogs/figs/P-Time-Fail/Elephant.bmp)
+![Elephant](https://www.zwimer.com/SAT-Algorithms/SAT-Blog/Blogs/figs/P-Time-Fail/Elephant.bmp)
 
 Became:
 
-![Elephant-error](https://github.com/zwimer/zwimer.github.io/blob/master/SAT-Blog/Blogs/figs/P-Time-Fail/Elephant_80_36.bmp)
+![Elephant-error](https://www.zwimer.com/SAT-Algorithms/SAT-Blog/Blogs/figs/P-Time-Fail/Elephant_80_36.bmp)
 
 For the cat2 image, 49.88% total error was found.
 
-![cat2](https://github.com/zwimer/zwimer.github.io/blob/master/SAT-Blog/Blogs/figs/P-Time-Fail/cat2.bmp)
+![cat2](https://www.zwimer.com/SAT-Algorithms/SAT-Blog/Blogs/figs/P-Time-Fail/cat2.bmp)
 
 Became:
 
-![cat2-error](https://github.com/zwimer/zwimer.github.io/blob/master/SAT-Blog/Blogs/figs/P-Time-Fail/cat2_72_56.bmp)
+![cat2-error](https://www.zwimer.com/SAT-Algorithms/SAT-Blog/Blogs/figs/P-Time-Fail/cat2_72_56.bmp)
 
 **!!! BLOG ITEM DELIMITER !!!**
 

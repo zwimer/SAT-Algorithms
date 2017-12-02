@@ -39,7 +39,7 @@ To see the effects of the size of a matrix to it's error, I decided to write a p
 Once I did this, here are a the results:
 
 <div style="text-align: center;">
-   <img src="https://github.com/zwimer/zwimer.github.io/blob/master/SAT-Blog/Blogs/figs/Size-Vs-Error/fig1.png?raw=true" style="max-width: 100%; height: auto;" alt="Alt text is required" />
+   <img src="https://www.zwimer.com/SAT-Algorithms/SAT-Blog/Blogs/figs/Size-Vs-Error/fig1.png?raw=true" style="max-width: 100%; height: auto;" alt="Alt text is required" />
 </div>
 
 **!!! BLOG ITEM DELIMITER !!!**
