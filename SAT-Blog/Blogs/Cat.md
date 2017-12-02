@@ -23,9 +23,7 @@ November 22, 2017
 // Note: Markdown should always be rendered first as latex does not respect whitespace
 
 // Body
-In Knuth's book, the introduction example to this problem is a 
-
-matrix that contains a picture of a cat. I entered the given sums in an attempt to reconstruct this matrix.
+In Knuth's book, the introduction example to this problem is a <p><span class="math inline">\(25\times 30\)</span></p> matrix that contains a picture of a cat. I entered the given sums in an attempt to reconstruct this matrix.
 
 **!! READ MORE BELOW !!**
 **!! RENDER MARKDOWN !!**
