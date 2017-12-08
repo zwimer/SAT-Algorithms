@@ -7,7 +7,7 @@ The re-constructed bear images are:
 	Bear_75_18  - Took 1.35337209702 seconds to make with 1.06172839506 % total error.
 	Bear_50_18  - Took 1.07365608215 seconds to make with 1.06172839506 % total error.
 	Bear_25_18  - Took 1.13446807861 seconds to make with 0.271604938272 % total error.
-	Bear_25_18  - Took 1.25046086311 seconds to make with 0.0 % total error.
+	Bear_15_18  - Took 1.25046086311 seconds to make with 0.0 % total error.
 
 The re-constructed Caltech images are:
 	Caltech_28_40 - Took 0.250571966171 seconds to make with 7.5 % total error.
