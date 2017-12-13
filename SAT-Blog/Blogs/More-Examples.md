@@ -28,7 +28,7 @@ Below are a few more images that I tested with their results.
 
 The examples are in the directory listed below. Images with '\_scaled' in their name mean that they are the scaled down versions of the images. The numbers after the underscores indicate the size of the scaling. Sadly, I could not test the elephant with a more accurate scaling; I quit after running the program for 20 minutes...
 
-[Folder](https://zwimer.com/tree/master/SAT-Blog/Blogs/figs/More-Examples)
+[Folder](https://github.com/zwimer/SAT-Algorithms/tree/master/SAT-Blog/Blogs/figs/More-Examples)
 
 **!!! BLOG ITEM DELIMITER !!!**
 
